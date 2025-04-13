@@ -40,12 +40,25 @@ StudentScoops is a web platform created to connect SAIT students with nearby res
 
 ## 👨‍💻 My Role
 
-As part of a six-member development team, I was responsible for:
+As part of a six-member development team, I worked as a **Front-End Developer**, focusing on building and managing user interfaces for **Admin**, **Restaurant**, and **Student** roles.
 
-- Setting up and managing **Firebase Authentication** for multiple user roles.
-- Configuring and structuring **Firebase Firestore Database** to support real-time data.
-- Implementing secure data connections between the frontend and backend.
-- Ensuring smooth integration of all authentication logic across pages.
+- Developed responsive and user-friendly front-end components tailored for each user type using **Next.js** and **Firebase**.
+- Integrated **Firebase Authentication** to handle secure login and role-based access for Admins, Restaurants, and Students.
+- Connected the front-end with **Firestore Database** to display real-time data and enable features like menu management, student ordering, and admin oversight.
+- Ensured seamless navigation and consistent user experience across different dashboards and pages.
+
+---
+
+## 👥 Team Members
+
+| Name                         | GitHub                                     |
+|-----------------------------------------|-----------------------------------------------|
+| **Hunardeep Singh**               | [GitHub Profile](https://github.com/hunardeep720) |
+| **Abdel Mouzahir**                | [GitHub Profile](https://github.com/Abdelmouzahir) |
+| **Sheraj**                | [GitHub Profile](https://github.com/sheraj923) |
+| **Aaron**                | [GitHub Profile](https://github.com/Aaron-1303) |
+| **Simrat Kaur**           | [GitHub Profile](https://github.com/SimratKaur24) |
+| **MoizInayat**           | [GitHub Profile](https://github.com/MoizInayat) |
 
 ---
 
